@@ -1,55 +1,60 @@
-# Bonjour 👋
+### Hi, I'm Rayan Bouzid 👋
 
-My name is **Rayan Bouzid**.  
-I’m a **Big Data and Web Development graduate**, passionate about **data analysis, AI, and building intelligent solutions** that transform information into real value.  
+I’m a **Big Data and Web Development graduate** passionate about **data analysis, AI, and intelligent systems** that turn information into real-world value.  
+I hold a **Master’s degree in Gestion et Analyse des Données Massives** and a **Licence degree in Computer Science – Information Systems**.  
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+My focus is on building **data-driven applications**, exploring **machine learning**, and continuously improving my skills in **data engineering** and **modern web technologies**.
 
----
-
-## 🛠️ Technologies and Tools
-
-[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/SQL-282C34?logo=postgresql&logoColor=4169E1" alt="SQL logo" title="SQL" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Pandas-282C34?logo=pandas&logoColor=150458" alt="Pandas logo" title="Pandas" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/NumPy-282C34?logo=numpy&logoColor=013243" alt="NumPy logo" title="NumPy" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="VS Code logo" title="VS Code" height="25" />][tech_tools_anchor]
+- 🔭 I’m currently working on data analysis and web-based AI projects.  
+- 🌱 I’m learning advanced **machine learning** and **cloud data tools**.  
+- 👯 I’m open to collaborate on **open-source** and **AI/web projects**.  
+- 📫 How to reach me: [your.email@example.com]  
+- 💬 Portfolio & Projects: [your GitHub profile link]  
 
 ---
 
-## 📚 What I’m Exploring
-
-[<img src="https://img.shields.io/badge/Machine%20Learning-282C34?logo=tensorflow&logoColor=FF6F00" alt="Machine Learning logo" title="Machine Learning" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Deep%20Learning-282C34?logo=pytorch&logoColor=EE4C2C" alt="Deep Learning logo" title="Deep Learning" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Big%20Data-282C34?logo=apache-spark&logoColor=E25A1C" alt="Big Data logo" title="Big Data" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Data%20Visualization-282C34?logo=plotly&logoColor=3F4F75" alt="DataViz logo" title="Data Visualization" height="25" />][learning_now_anchor]
+#### 🧠 Tech Interests
+- Data Science & Big Data  
+- Machine Learning & AI  
+- Web Development (React, Node.js, APIs)  
+- Cloud & Data Engineering  
 
 ---
 
-## 🌍 Where to Find Me
-
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/your-linkedin)
-&nbsp;
-[<img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=ffffff" alt="GitHub logo" title="GitHub" height="25" />](https://github.com/your-github-username)
+#### 🗂 Featured Projects
+<!-- Add your top repos here later -->
+- **Context-Aware Reinforcement Learning for Recommendation Systems** — Master’s project on AI-based recommendation.  
+- **Culture House Website** — Web project from my Bachelor’s degree.
 
 ---
 
-[tech_tools_anchor]: #bonjour-
-[learning_now_anchor]: #-what-im-exploring
+#### 🧾 Latest Learning Notes (soon)
+*(You can link articles, notebooks, or Medium posts later here)*
+
+---
+
+![Rayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true)
+
+---
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <img align="left" alt="Rayan Bouzid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img align="left" alt="Rayan Bouzid | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://medium.com/@YOUR_MEDIUM_HANDLE">
+  <img align="left" alt="Rayan Bouzid | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
+</a>
+
+<br />
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <table align="right">
+      <tr>
+          <td>
+            👉 &nbsp;&nbsp;See my work on GitHub
+          </td>
+      </tr>
+  </table>
+</a>
