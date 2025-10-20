@@ -5,19 +5,15 @@ I hold a **Master’s degree in Gestion et Analyse des Données Massives** and a
 
 My focus is on building **data-driven applications**, exploring **machine learning**, and continuously improving my skills in **data engineering** and **modern web technologies**.
 
-- 🔭 I’m currently working on data analysis and web-based AI projects.  
+- 🔭 I’m currently working on data analysis .  
 - 🌱 I’m learning advanced **machine learning** and **cloud data tools**.  
-- 👯 I’m open to collaborate on **open-source** and **AI/web projects**.  
-- 📫 How to reach me: [your.email@example.com]  
-- 💬 Portfolio & Projects: [your GitHub profile link]  
+
 
 ---
 
 #### 🧠 Tech Interests
 - Data Science & Big Data  
 - Machine Learning & AI  
-- Web Development (React, Node.js, APIs)  
-- Cloud & Data Engineering  
 
 ---
 
