@@ -20,7 +20,7 @@ My focus is on building **data-driven applications**, exploring **machine learni
 #### 🗂 Featured Projects
 <!-- Add your top repos here later -->
 - **Context-Aware Reinforcement Learning for Recommendation Systems** — Master’s project on AI-based recommendation.  
-- **Culture House Website** — Web project from my Bachelor’s degree.
+- **Culture House Website** — Web project from my Licence degree.
 
 ---
 
