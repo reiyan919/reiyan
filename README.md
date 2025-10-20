@@ -22,14 +22,7 @@ My focus is on building **data-driven applications**, exploring **machine learni
 - **Context-Aware Reinforcement Learning for Recommendation Systems** — Master’s project on AI-based recommendation.  
 - **Culture House Website** — Web project from my Licence degree.
 
----
 
-#### 🧾 Latest Learning Notes (soon)
-*(You can link articles, notebooks, or Medium posts later here)*
-
----
-
-![Rayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true)
 
 ---
 
